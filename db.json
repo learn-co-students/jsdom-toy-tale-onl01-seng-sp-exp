@@ -10,43 +10,61 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 9
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 5
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 6
     },
     {
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "likes": 3
     },
     {
       "id": 6,
       "name": "Bo Peep",
       "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "likes": 6
     },
     {
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 3
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 1
+    },
+    {
+      "name": "Congo",
+      "image": "https://www.target.com/p/disney-pixar-toy-story-andy-39-s-toy-chest-retro-figure-4pk/-/A-76623460#",
+      "likes": 1,
+      "id": 9
+    },
+    {
+      "name": "Congo",
+      "image": "https://www.gannett-cdn.com/-mm-/f5197a18f348667125dadf819c020f0fcff06e13/c=112-0-1228-1488/local/-/media/2015/11/20/USATODAY/USATODAY/635836325089066765-1995toystory.jpg?width=600&height=800&fit=crop&format=pjpg&auto=webp",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Josh",
+      "image": "https://www.gannett-cdn.com/-mm-/f5197a18f348667125dadf819c020f0fcff06e13/c=112-0-1228-1488/local/-/media/2015/11/20/USATODAY/USATODAY/635836325089066765-1995toystory.jpg?width=600&height=800&fit=crop&format=pjpg&auto=webp",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
